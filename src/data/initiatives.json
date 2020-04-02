@@ -132,8 +132,8 @@
       "link": "https://climedo.de/blog/climedo-plattform-klinische-datenerhebung-covid-19-projekte-zur-verfuegung/",
       "category": "digital_tools",
       "description": {
-        "de": "Kostenfreie Plattform für klinische Datenerhebung und Patiententagebücher im Zusammenhang mit COVID-19-Projekten.",
-        "en": "Free platform for clinical data capture and patient eDiaries for COVID-19-related projects."
+        "de": "Kostenfreie Plattform für klinische Datenerhebung im Zusammenhang mit COVID-19 für Praxen, Kliniken, Forschungsinstitute und gemeinnützige Organisationen",
+        "en": "Free Clinical Data Capture Platform for COVID-19 Projects"
       },
       "global": false
     },
@@ -277,6 +277,16 @@
       },
       "global": false
     },
+        {
+      "name": "dentolo",
+      "link": "https://dentolo.de/",
+      "category": "digital_consultation",
+      "description": {
+        "de": "Die Video-Sprechstunde mit einem Zahnarzt und lassen Dich kostenlos von einem Experten beraten um unnötige Besuche während der COVID-19-Krise zu vermeiden.",
+        "en": "Talk to a dentist and get free expert advice to avoid unnecessary visits during COVID-19 crisis."
+      },
+      "global": false
+    },  
     {
       "name": "Clickdoc für Ärzte und Behandler",
       "link": "https://clickdoc.de/cms-de/news/virus-videosprechstunde-kostenlos/",
